@@ -1,2 +1,1 @@
 cvxopt == 1.2.7
-sklearn >= 0.23.1
