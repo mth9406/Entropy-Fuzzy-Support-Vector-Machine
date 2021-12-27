@@ -1,7 +1,6 @@
 import numpy as np
 import cvxopt
 from cvxopt import matrix as cvxopt_matrix
-from sklearn.model_selection import train_test_split
 
 def Entropy(p):
     if 0 < p < 1:
