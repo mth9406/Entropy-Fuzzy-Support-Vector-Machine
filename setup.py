@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name= 'efsvm',
+    name= 'EFSVM',
     version= '0.0.1',
     description= 'Implemenation of EFSVM',
     author= 'SUNGWOO HUR',
