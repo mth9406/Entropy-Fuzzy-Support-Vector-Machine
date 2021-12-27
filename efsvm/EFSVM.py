@@ -1,4 +1,7 @@
 from .utils import KNN_, Entropy, Kernel_
+import numpy as np
+import cvxopt
+from cvxopt import matrix as cvxopt_matrix
 
 class EFSVM(object):
 
