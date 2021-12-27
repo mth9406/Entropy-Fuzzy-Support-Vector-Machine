@@ -1,4 +1,4 @@
-from .utils import *
+from .utils import KNN_, Entropy, Kernel_
 
 class EFSVM(object):
 
